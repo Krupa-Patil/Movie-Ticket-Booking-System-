@@ -1,5 +1,11 @@
-# Movie-Ticket-Booking-System
-Movie Ticket Booking System is based on a concept of recording and booking customer’s movie ticket details.
-Here the user can perform all the tasks like booking movie, receiving tickets and paying for the tickets. Features of this system include, a user can any select any movie which is provided in the list. 
-After selecting a movie, user has to select shows then system asks customer’s personal details like Name, Contact number, email etc. Based on the type of the movie, system shows the total payable amount and user can make payment all the three modes like cash, card and online. 
-This system is an attempt to provide the advantage for systematic ticket management for customers to create a user-friendly environment to facilitate customer services, this system would play immense role for better customer satisfaction.
+# Movie Ticket Booking System
+This system provides a comprehensive application for booking movie tickets, managing customer details, and processing payments. Users can select movies, choose showtimes, enter personal information, and pay via cash, card, or online methods. The platform streamlines ticket management to improve customer experience and operational efficiency.
+
+## Key Features:
+- Movie and showtime selection from a curated list.
+- Customer information capture (name, contact, email).
+- Dynamic payment options (cash, card, online).
+- Automated calculation of total payable amount.
+- User-friendly interface for easy navigation
+
+Built to facilitate efficient and systematic ticket management, this system enhances service quality and customer satisfaction in cinema operations.
